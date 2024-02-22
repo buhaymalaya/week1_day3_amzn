@@ -1,0 +1,78 @@
+
+img {
+    width: 150px;
+    height: 100px;
+    margin: 20px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+}
+
+.flexy {
+    display: flex;
+    justify-content:first baseline;  
+}
+
+
+.small_font {
+    font-size: small;
+}
+
+.card-title {
+    font-size: x-large;
+    font-weight: 300;
+}
+
+
+.signin {
+    background-color: rgb(254, 213, 124);
+    color: black;
+    width: 100%;
+    margin-top: 20px;;
+}
+
+a {
+    text-decoration: none;
+}
+
+.privacy {
+    margin-top: 20px;
+}
+
+.form-check {
+    font-size: medium
+}
+
+.create {
+    background-color: rgb(227, 227, 227);
+    color: black;
+    border-color: black;
+    width: 100%;
+   
+}
+.new {
+    color: gray;
+    font-size: small;
+}
+
+.the_line {
+    display: flex;
+    display: inline;
+    flex-direction: row;
+    justify-content: space-around
+    
+    
+}
+
+/* #exampleInputPassword1 {
+    width: 370px;
+} */
+
+
